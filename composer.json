@@ -1,0 +1,21 @@
+{
+    "name": "adam/stochastic",
+    "description": "stochastic",
+    "type": "library",
+    "require-dev": {
+        "phpspec/phpspec": "~2.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Elsodaney",
+            "email": "adam.elso@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "config": { "bin-dir": "bin" },
+    "autoload": {
+        "psr-4": { "": "src" }
+    }
+}
