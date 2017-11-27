@@ -3,7 +3,9 @@ Stochastic
 
 Markov chain generator for PHP 5.5.
 
-Implements the PHP `\Iterator` interface.
+Markov chains make predictions about the future based on the probability of a transition taking place - artificial intellegence in its simpilist form - https://en.wikipedia.org/wiki/Markov_chain
+
+This main class implements the PHP `\Iterator` interface.
 
 Example
 -------
